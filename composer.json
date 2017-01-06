@@ -1,0 +1,13 @@
+{
+    "name": "vsfdqfpdpg/phpmvc",
+    "description": "This is a simple mvc",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Elijah",
+            "email": "zoujian49@126.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
