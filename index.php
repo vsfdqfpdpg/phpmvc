@@ -1,7 +1,7 @@
 <?php
     // https://www.youtube.com/playlist?list=PL7194BCBC4FED5FA4
     // https://github.com/Jontyy/PHP-Basic-MVC-Framework
-    define('APP_PATH', realpath(dirname(__FILE__)).'/');
+    define('APP_PATH', realpath(dirname(__FILE__)).'/src/');
     require_once APP_PATH.'app/Http/request.php';
     require_once APP_PATH.'app/Http/router.php';
     require_once APP_PATH.'app/Http/baseController.php';
